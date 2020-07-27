@@ -1,0 +1,87 @@
+.navbar{
+    margin-bottom: 0;
+    background-color: #313131;
+    border: 0;
+    z-index: 9999;
+    font-size:16px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 1px;
+    border-radius: 0;
+    font-family: Roboto, san-serif;
+}
+
+.navbar li a, .navbar .navbar-brand{
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a{
+    color: #1ECBF4 !important;
+    background-color: #fff !important;
+}
+
+#MainContent{
+    background-color: #1278b0;
+}
+
+#MainContent h4{
+    color: #ffe419; 
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+#MainContent .row .TinTuc{
+    background-color: #313131; 
+    color: #fff; 
+    padding: 5px;
+}
+
+#MainContent .row .content{
+    background-color: #fff;
+    padding: 5px;
+}
+
+#MainContent .row .content .TieuDe{
+    font-family: Time New Romance;
+    font-weight: bold; 
+}
+
+#MainContent .row #menu-right .TieuDe{
+    background-color: #313131; 
+    color: #fff; 
+    padding: 5px;
+}
+
+#MainContent .row #menu-right ul{
+    background-color: #fff; 
+    color:#1ECBF4;
+}
+
+
+#footer{
+    background-color: #313131;
+}
+
+#footer .container{
+    color: #fff; 
+    padding: 30px 10px;
+}
+#footer .container p{
+    text-align: center;
+}
+
+
+/*----CSS đăng nhập hệ thống --*/
+#DangNhap{
+    margin-top: 10px;
+    
+}
+#DangNhap .row .col-sm-4{
+    background-color: #e3e3e3;
+    padding: 10px;
+}
+#DangNhap .row .col-sm-4 h4{
+    text-align: center;
+    font-family: time new romance;
+    font-weight: bold;
+    font-size: 30px;
+}
+/*----End CSS đăng nhập hệ thống --*/
